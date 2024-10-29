@@ -1,0 +1,293 @@
+.alumnionline_reunion_website_offscreen{
+    border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+.settings_page_alumnionline-reunion-website, .toplevel_page_alumnionline-reunion-website{
+width: 85%;
+max-width: 1500px;
+}
+.settings_page_alumnionline-reunion-website th, .toplevel_page_alumnionline-reunion-website th{
+width: 50px;
+display:none;
+}
+.alumnionline-reunion-website-action-button{
+    padding: 12px;
+    padding-top: 11px;
+    padding-bottom: 13px;
+    width: 95px;
+    margin-top: 1px;
+    color:#000 !important;
+    background:#eee;
+    border: 1px solid #131313;
+    border-radius:2px;
+    text-decoration: none !important;
+    font-size: 12pt;
+ }
+ .alumnionline-reunion-website-action-button{
+    padding: 12px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+ }
+ .alumnionline-reunion-website-action-button:hover{
+    color:#fff !important;
+    background:#000;
+ }
+.alumnionline-reunion-website-button{
+    margin: 10px;
+    padding: 5px;
+    color:#fff !important;
+    background:#000;
+    border: 1px solid #000;
+    text-decoration: none !important;
+    font-weight:bold;
+ }
+ .alumnionline-reunion-website-button:hover{
+    color:#000 !important;
+    background:#fff;
+ }
+ .comment-form-comment label{
+    display:block;
+  }
+  .acf-fields > .acf-field {
+    position: relative;
+    margin: 0;
+    padding: 16px;
+    border-top-width: 0px !important;
+    border-top-style: solid;
+    border-top-color: #EAECF0;
+  }
+#alumnionline-reunion-website-view-forum button{
+padding: 5px;
+font-size: 12pt;
+
+}
+.alumnionline-reunion-website-settings-section{
+margin-bottom: 10px;
+font-weight: bold;
+font-size: 25px;
+cursor: pointer;
+text-decoration: none;
+background-color: #fff;
+padding: 10px;
+display:block;
+max-width: 650px;
+}
+.alumnionline_reunion_website_error{
+    color:rgb(223, 13, 13);
+    font-weight:bold;
+}
+.alumnionline_reunion_website_forms select, .alumnionline_reunion_website_forms input{
+padding: 7px;
+margin: 5px;
+}
+.alumnionline-reunion-website-pagination {
+    margin-bottom: 0px;
+    font-size: 90%;
+    color: #eee;
+}
+.alumnionline-reunion-website-pagination a{
+    margin: 5px;
+    text-decoration:none !important;
+
+}
+.alumnionline_reunion_website_forms label{
+    font-weight:bold;
+    margin-left: 10px;
+}
+.alumnionline_reunion_website_forms button{
+text-transform:uppercase;
+}
+.alumnionline-reunion-website-status-message{
+    font-weight: bold;
+    color:darkgreen;
+    margin-bottom: 10px;
+}
+.alumnionline-reunion-website-changeview-current{
+    font-weight:bold;
+}
+.alumnionline-reunion-website-pagination{
+    font-size: 90%;
+}
+.alumnionline-reunion-website-button-bar{
+    margin-bottom: 10px;
+}
+#alumnionline-reunion-website-search-keyword{
+    width: 50%;
+}
+#alumnionline-reunion-website-searchform{
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+.alumnionline_reunion_website_post_edit_link{
+    display:none;
+    text-decoration: none;
+    float:right;
+    padding: 10px;
+ }
+ .alumnionline_reunion_website_post_edit_link:focus{
+background-color:#fff !important;
+color:#000 !important;
+ }
+.alumnionline-reunion-website-fields{
+display:none;
+background-color: #fff;
+padding: 20px;
+margin-top:-5px;
+margin-bottom: 10px;
+max-width: 628px;
+border: 1px dotted #2271b1;
+border-radius: 0px;
+}
+#alumnionline_reunion_website_post_message input, #alumnionline_reunion_website_post_message select{
+    padding: 5px;
+}
+#alumnionline_reunion_website_post_message_div{
+display:none;
+}
+.alumnionline-reunion-website-setup-instructions{
+    background: #fff;
+    padding: 20px;
+    margin:20px;
+    position: fixed;
+    right: 20px;
+    width: 500px;
+    border: 1px solid rgb(244, 4, 4)
+}
+.alumnionline-reunion-website-options-form .description{
+    margin-bottom: 20px;
+}
+.alumnionline-reunion-website-modal-inner {
+    position: fixed;
+    left: 50%;
+    top: 10%;
+    width: 50%;
+    transform: translate(-50%, 0);
+    min-height: 400px;
+    max-height: calc(100vh - 210px);
+    overflow: hidden;
+    overflow-y: auto;
+    padding: 30px;
+    margin:30px;
+    border: 1px solid #000;
+    z-index: 2000000004;
+    background-color: #fff;
+  
+  }
+  .alumnionline-reunion-website-classmate-search{
+    display: grid;
+    grid-template-columns: 180px 180px 180px 180px;
+
+    column-gap: 10px;
+    row-gap: 15px;
+}
+.alumnionline-reunion-website-label{
+    font-weight:bold;
+}
+.alumnionlineorg-admin-only{
+    border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+.alumnionline-reunion-website-classmate-search .alumnionline-reunion-website-classmate-details{
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-align:center;
+    padding: 5px;
+    background: #fff;
+}
+.alumnionline-reunion-website-classmate-search .alumnionline-reunion-website-classmate-details img{
+    border: 1px solid #000;
+    border-radius: 10px;
+    height: 180px; 
+    width: 165px;
+}
+  .alumnionline-reunion-website-modal-close{
+    position:fixed;
+    top: 10px;
+    right: 20px;
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 200%;
+    color: #032E49;
+    z-index: 2000000010;
+
+    }
+  .alumnionline-reunion-website-modal-wrapper {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    max-width: 100% !important; /* Full width (cover the whole page) */
+    width: 100% !important; /* Full width (cover the whole page) */
+    height: 100% !important; /* Full height (cover the whole page) */
+    margin-left:0px !important;
+    margin-right:0px !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+    z-index: 2000000005;
+    cursor: pointer; /* Add a pointer on hover */
+    }
+
+table.alumnionline-reunion-website-table{
+border:1px solid #eee;
+border-collapse: collapse;
+width: 100%;
+}
+.alumnionline-reunion-website-table .alumnionline-reunion-website-photo-button{
+  
+    font-size: 11px !important;
+}
+ table.alumnionline-reunion-website-table th , table.alumnionline-reunion-website-table td{
+    border:1px solid #eee;
+    border-collapse: collapse;
+    }
+    table.alumnionline-reunion-website-table th{
+        background-color: #eee;
+    }   
+.alumnionline_reunion_website_hidemenitem_loggedout{display:none !important;}
+.logged-in .alumnionline_reunion_website_hidemenitem_loggedin{display:none !important;}
+.logged-in .alumnionline_reunion_website_hidemenitem_loggedout{display:block !important;}
+.alumnonline-reunion-plugin-member-wrapper{
+    text-align:center;
+    margin-bottom: 60px;
+    width: 100%;
+}
+.alumnonline-reunion-plugin-message-post-wrapper{
+   
+    margin: auto;
+    width: 500px; 
+    margin-bottom: 60px;
+}
+.alumnonline-reunion-plugin-message-post-wrapper #reply-title{
+    margin-top: 30px;
+}
+.alumnonline-reunion-plugin-member-wrapper h3{
+    margin-bottom: 0px;
+}
+.alumnonline-reunion-plugin-member-wrapper .comment-respond{
+    text-align:left;
+    margin: auto;
+    width: 500px;
+    margin-top: 50px;
+}
+.alumnonline-reunion-plugin-featured-image img{
+    width: 500px;
+    height:auto;
+}
